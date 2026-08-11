@@ -1,0 +1,4 @@
+interface:
+  display_name: "飞书多维表格与文档发布"
+  short_description: "写入飞书多维表格，并将 Markdown 转换后发布为飞书文档"
+  default_prompt: "Use $feishu-bitable to publish this Markdown to Feishu or update the requested Bitable."
